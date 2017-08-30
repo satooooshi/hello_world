@@ -1,6 +1,7 @@
 #!/bin/bash
 #this is a comment
 
+
 echo "pwd"
 pwd
 
@@ -28,7 +29,7 @@ esac
 
 echo "for"
 for i in 0 1 2 3
-do 
+do
 	echo $i
 done
 
@@ -57,4 +58,3 @@ then
 else
 	echo "not found."
 fi
-
